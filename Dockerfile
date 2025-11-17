@@ -1,4 +1,4 @@
-FROM denoland/deno:bin-2.2.11 AS deno
+FROM denoland/deno:bin-2.5.6 AS deno
 
 FROM node:22.14-bookworm-slim
 
